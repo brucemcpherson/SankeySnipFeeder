@@ -1,5 +1,5 @@
 # Google Apps Script Project: SankeySnipFeeder
-This repo (SankeySnipFeeder) was automatically updated on 17 June 2016 09:29:51 BST by GasGit
+This repo (SankeySnipFeeder) was automatically updated on 27 July 2016 10:37:41 BST by GasGit
 
 For more information see the [desktop liberation site](http://ramblings.mcpher.com/Home/excelquirks/drivesdk/gettinggithubready "desktop liberation") or [contact me on G+](https://plus.google.com/+BruceMcpherson "Bruce McPherson - GDE")
 ## Details for Apps Script project SankeySnipFeeder
